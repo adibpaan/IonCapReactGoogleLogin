@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "IonCapReactGoogleLogin",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
